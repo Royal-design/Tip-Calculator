@@ -10,3 +10,7 @@
 ```
 
 _It will generate the tip and add it to the total bill automatically_.
+
+## Click here to open the file
+
+## [tip website](https://royal-design.github.io/Tip-Calculator/)
