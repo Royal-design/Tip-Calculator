@@ -2,7 +2,7 @@
 
 ## The basic feature is to help in calculating tip
 
-## How to operate
+## How to operate this calculator
 
 ```
 - Select the number of people
